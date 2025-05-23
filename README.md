@@ -1,6 +1,6 @@
 # ISP's Final Exercise1
 - OpenCV Car Detection & Tracking Exercise
-- 
+
 This repository contains a Python project developed as an exercise for an Intelligent Signal Processing course. It demonstrates car detection, basic tracking, and directional
 counting in traffic videos using OpenCV.
 
