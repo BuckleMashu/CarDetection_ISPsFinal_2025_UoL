@@ -21,6 +21,8 @@ The project is implemented in a Jupyter Notebook (exer1_17022025_submission_clea
 
     [Exercise 1 Output Example]
 
+
+
   - Task 2: Advanced Car Detection, Tracking & Counting
 
     *Employs the more robust cv.createBackgroundSubtractorMOG2 for dynamic background subtraction.
