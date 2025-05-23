@@ -17,6 +17,10 @@ The project is implemented in a Jupyter Notebook (exer1_17022025_submission_clea
     
     *Visualises detected cars by drawing bounding boxes around them in the output video stream.
 
+    ![image](exercise1task1.png)
+
+    [Exercise 1 Output Example]
+
   - Task 2: Advanced Car Detection, Tracking & Counting
 
     *Employs the more robust cv.createBackgroundSubtractorMOG2 for dynamic background subtraction.
@@ -36,6 +40,10 @@ The project is implemented in a Jupyter Notebook (exer1_17022025_submission_clea
     *Provides an estimate of "cars per minute" detected.
 
     *Displays tracked cars with their ID, origin, and bounding boxes.
+
+    ![image](exercise1task2.png)
+
+    [Exercise 2 Output Example]
 
 - Technologies Used:
 
